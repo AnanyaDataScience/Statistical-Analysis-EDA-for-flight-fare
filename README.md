@@ -1,0 +1,2 @@
+# Statistical-Analysis-EDA-for-flight-fare
+In this project we do several feature extraction, some interesting EDA to acknowledge flight trends and perform statistical tests(Chi-Square, ANOVA, VIF, correlation) to check the significance of the predictors towards the price by their corresponding hypothesis and finally, OLS regression model is built using the important predictor variables and the results were analyzed.
